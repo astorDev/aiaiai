@@ -1,0 +1,1 @@
+When I use copilot agent they constantly read postman instructions file even when completely irrelevant. I don't want this to happen and I don't even want to use those instructions ever in general

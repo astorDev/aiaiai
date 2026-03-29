@@ -21,6 +21,7 @@ In this folder create an index.md containing the following:
   - CAN NOT describe agents artifacts, instead should contain an external validation (either programmatic e.g. passing test or manual user approve). 
   - SHOULD BE based on global Verification criterea, but be specific to this particular hyposesis.
 - Investigation Plan
+  - For a behaviour investigation, first step MUST be collecting general description of this behaviour either from existing knowledge or from Web documentation.
   - MUST have a final step that leads to verification being completed.
 
 Your hyposesis rules:
